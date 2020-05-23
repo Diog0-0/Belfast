@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif!important;
+}
+
+html, body {
+    /*Footer colado no fim da página*/
+    height: 100%;
+}
+
+body {
+    /*Imagem de fundo*/
+    background-image: url('../img/polygon.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+
+    /*Display de colunas juntas para separadas*/
+    display: flex;
+    flex-direction: column;
+
+}
+
+/*Tamanho da logo na Navbar*/
+#logo-imagem {
+    height: 45px;
+}
+/*//Tamanho da Logo na Navbar*/
+
+
+/*Resto da página*/
+#main {
+    min-height: 100%;
+}
+
+.content {
+    color: #fff;
+    padding-top: 15px;
+
+}
+/*//Resto da página*/
+
+/*Footer*/
+.footer .footer-copy {
+    background-color: #343a40;
+    color: #6c757d;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    bottom: 0px;
+    left: 0px;
+    padding-top: 20px;
+    
+}
+
+.footer .footer-copy img {
+    height: 30px;
+    width: auto;
+}
+/*//Footer*/
+
+
+
+
+
+
+
+
+/*rgba(255,255,255,.5)
+#6c757d*/
