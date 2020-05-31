@@ -8,6 +8,18 @@
  * Based on code originally provided by
  * Philip Taylor: http://philip.html5.org
  */
+/*
+<!--31/05/2020 este arquivo foi utilizado/reformulado para fins educacionais, com zero intuito de comercialização.
+Estudo realizado com a utilização da ferramente de frameworks em IHC, projetado e pensado em modelos 3d -> X3DOM.
+Este arquivo foi entregue com pontualidade em metodo de trabalho educacional a materia de IHC na universidade paulista localizada em Bauru-sp
+projeto entregue como trabalho numero 1 de composição de nota.
+exposto com o objetivo de salvar os arquivos necessarios e divulgar conhecimento atraves da ferramenta.
+Projetado e desenvolvido por: Diogo de sousa nogueira & Enrico brosque palma.
+interessados em contato profissional ou duvidas entrar em contato no seguinte e-mail: 
+dsnogueira489@gmail.com & enricob.palma@gmail.com
+
+PROJETO BELFAST COM MODULOS 3D FRAMEWORK X3DOM. 08/05/2020-->
+*/
 
 X3D, x3d {
     position:relative;
